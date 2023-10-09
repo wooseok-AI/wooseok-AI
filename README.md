@@ -4,7 +4,7 @@
 ### ✨Context
 <a href="https://velog.io/@ws_jung"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/peterjung95@gmail.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
-<a href="https://www.linkedin.com/in/ai-wooseokjung/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+<a href="https://www.linkedin.com/in/ai-wooseokjung/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)">
 
 </br>
 </br>
