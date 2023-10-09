@@ -4,7 +4,8 @@
 ### I try to record my experiences in my Notion and Blog (Check this in my bio!)
 
 - Currently Working as Quality Engineering Devloper in LG Electronics
-- Deveoloping Auto Testing System for Voice Assistant Home Applicants, Dev Virtual Home Applicants for Test Automation System
+  - Developing Auto Testing System using TTS models for Voice Assistant Home Applicants
+  - Developing Virtual Home Applicants using STM32 borad for Test Automation System
 
 - 👯 I’m looking to collaborate on AI Sideproject using NLP (LLM)
 
