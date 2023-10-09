@@ -3,7 +3,7 @@
 
 ### I try to record my experiences in my Notion and Blog (Check this in my bio!)
 
-- Currently Working as Quality Engineering Devloper in LG Electronics
+- Currently Working as Quality Engineering Research Associate in LG Electronics
   - Developing Auto Testing System using TTS models for Voice Assistant Home Applicants
   - Developing Virtual Home Applicants using STM32 borad for Test Automation System
 
