@@ -5,7 +5,7 @@
 
 - Currently Working as Quality Engineering Research Associate in LG Electronics
   - Developing Auto Testing System using TTS models for Voice Assistant Home Applicants
-  - Developing Virtual Home Applicants using STM32 borad for Test Automation System
+  - Developing Virtual Home Applicants using STM32 board for Test Automation System 
 
 - 👯 I’m looking to collaborate on AI Sideproject using NLP (LLM)
 
