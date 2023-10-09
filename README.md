@@ -1,4 +1,4 @@
-## Hi there This is Ian Lee's Github Page 👋
+## Hi there This is Wooseok Jung's Github Page 👋
 ### I'm a ML developer🌱 interested in NLP, Data, Multi-Modal AI, IoT
 
 ### I try to record my experiences in my Notion and Blog (Check this in my bio!)
@@ -8,8 +8,8 @@
   
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Ian-Lee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ian-Lee&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooseok-AI&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooseok-AI&layout=compact&theme=tokyonight)
 <br>
 <br>
 
