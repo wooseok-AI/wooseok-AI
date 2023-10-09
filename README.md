@@ -1,6 +1,15 @@
 ## Hi there This is Wooseok Jung's Github Page 👋
 ### I'm a ML developer🌱 interested in NLP, Data, Multi-Modal AI, IoT
 
+### ✨Context
+<a href="https://velog.io/@ws_jung"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/peterjung95@gmail.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ai-wooseokjung/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+
+</br>
+</br>
+
+
 ### I try to record my experiences in my Notion and Blog (Check this in my bio!)
 
 - Currently Working as Quality Engineering Research Associate in LG Electronics
