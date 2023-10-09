@@ -7,16 +7,14 @@
 <a href="https://www.linkedin.com/in/ai-wooseokjung/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)">
 
 </br>
-</br>
-
 
 ### I try to record my experiences in my Notion and Blog (Check this in my bio!)
 
-- Currently Working as Quality Engineering Research Associate in LG Electronics
+- 👨‍💻 Currently Working as Quality Engineering Research Associate in LG Electronics
   - Developing Auto Testing System using TTS models for Voice Assistant Home Applicants
   - Developing Virtual Home Applicants using STM32 board for Test Automation System 
 
-- 👯 I’m looking to collaborate on AI Sideproject using NLP (LLM)
+- 👯 I’m looking to collaborate on AI SideProject using NLP (LLM)
 
   
 <br>
