@@ -1,5 +1,5 @@
 ## Hi there This is Wooseok Jung's Github Page 👋
-### I'm a ML developer🌱 interested in NLP, Data, Multi-Modal AI, IoT
+### I'm a AI Engineer🌱 interested in NLP, Knowledge Retrival, Agent
 
 ### ✨Context
 <a href="https://velog.io/@ws_jung"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
